@@ -1,1 +1,1 @@
-# Football_Data_intelligence_Course_Thesis
+# Football_Data_Intelligence_Course_Thesis
